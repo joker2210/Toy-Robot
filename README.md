@@ -20,6 +20,8 @@ Please switch to Debug configuration in the drop down in Menu then you can debug
 
 Clone this repo:
 
+https://github.com/joker2210/Toy-Robot.git
+
 After you clone, open the Robot.sln in any IDE (preferebly visual studio) and build in Release. The application will be here:
 ../Robot/bin/Release
 
