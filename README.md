@@ -33,5 +33,7 @@ In a cmd window, navigate to the directory with executable file (../Robot/bin/Re
 
 >Robot "C:\Users\[user]\Documents\commands.txt" - If commands file is in any other location, please provide complete path to it
 
+
 **How to run tests cases**
+
 Open solution in visual studio, build it in debug mode and navigate to Test tab on top and click "Run All Tests"
