@@ -1,5 +1,6 @@
 # Toy-Robot
 This application is built on .Net core 6. It is recommended to have .Net core 6 installed if you want to debug
+
 Tests cases are written using Nunit framework
 
 There are two flavors to the application, the way you take the input. Program.cs has the Preprocessor directive.
@@ -29,6 +30,7 @@ Create a .txt file with a series of commands on new lines, for instance commands
 In a cmd window, navigate to the directory with executable file (../Robot/bin/Release) and type in the following.
 
 >Robot commands.txt - If the commands text file is in the same directory as .exe
+
 >Robot "C:\Users\[user]\Documents\commands.txt" - If commands file is in any other location, please provide complete path to it
 
 **How to run tests cases**
