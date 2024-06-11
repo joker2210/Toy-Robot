@@ -4,6 +4,7 @@ Tests cases are written using Nunit framework
 
 There are two flavors to the application, the way you take the input. Program.cs has the Preprocessor directive.
 Please switch to Debug configuration in the drop down in Menu then you can debug the application by providing file path after Input requirement 
+
 **What is included in the Repo?**
  - Robot - Main console project
  - Robot.Tests - Has all the test cases
@@ -15,12 +16,14 @@ Please switch to Debug configuration in the drop down in Menu then you can debug
  - Visual studio/code (for building and debugging)
    
 **Setup**
+
 Clone this repo:
 
 After you clone, open the Robot.sln in any IDE (preferebly visual studio) and build in Release. The application will be here:
 ../Robot/bin/Release
 
 **How to run app**
+
 Create a .txt file with a series of commands on new lines, for instance commands.txt
 
 In a cmd window, navigate to the directory with executable file (../Robot/bin/Release) and type in the following.
